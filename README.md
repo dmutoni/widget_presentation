@@ -8,8 +8,8 @@ A simple Flutter widget that demonstrates different ways to use `CircularProgres
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/circular-progress-indicator-demo.git
-   cd circular-progress-indicator-demo
+   git clone https://github.com/dmutoni/widget_presentation
+   cd widget_presentation
    ```
 2. **Get dependencies:**
 
